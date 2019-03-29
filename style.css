@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+  }
+  
+  main {
+    max-width: 500px;
+    margin: 0px auto;
+  }
+  
+  input, textarea {
+    padding: 0.5rem 1rem;
+    width: 100%;
+  }
